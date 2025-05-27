@@ -1,5 +1,5 @@
 # Super-Store-Sales-Dashboard-
-1. Executive Summary This dashboard provides a comprehensive overview of sales performance across different segments, regions, products, and timeframes. It helps in identifying trends, top-performing areas, and areas needing improvement from February 2014 to December 2017
+Executive Summary This dashboard provides a comprehensive overview of sales performance across different segments, regions, products, and timeframes. It helps in identifying trends, top-performing areas, and areas needing improvement from February 2014 to December 2017
 
 A moderate average discount with a decent profit margin suggests a healthy pricing strategy but indicates scope for optimizing profit further.
 
